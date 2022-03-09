@@ -30,9 +30,9 @@ library(ggh4x) #Hacks for ggplot2
 library(anytime) #clean time date string
 '''
 
-#### Price Indeces
+#### Inflation
 | Dateset          | Source           | Column Description   | File Description                                                            |
 | ---------------- | ---------------- | -------------------- |---------------------------------------------------------------------------- |
-| col 3 is         | right-aligned    | $1600.               |                                                                             |
-| col 2 is         | centered         |   $12                |                                                                             |
-| zebra stripes.   | are neat         |    $1                |                                                                             |
+| IPCA Monthly     | right-aligned    | $1600.               |                                                                             |
+| IPCA Yearly      | centered         |   $12                |                                                                             |
+| Brazilian Implicit GDP Deflator   | are neat         |    $1                |                                                                             |
