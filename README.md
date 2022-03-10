@@ -32,8 +32,8 @@ library(anytime) #clean time date string
 '''
 
 #### Inflation
-| Dateset                         | Source    | Col. Description   | Last Update (ymd)  |File Description                                      
-| :-----------------------------: | :-------: | ------------------ | ------------------ |---------------------------------------- |
-| IPCA Monthly                    | IBGE      | Link               | 2020-12-01         |Brazilian monthly main CPI Index         |
-| IPCA Yearly                     | IBGE      | Link               | 2020-12-01         |Brazilian yearly (Jan-Dec) main CPI Index|
-| Brazilian Implicit GDP Deflator | IBGE      | Link               | 2020               |Brazilian inplicit GDP Deflator          |
+| Dateset                         | Source    | Col. Description   | Last Update |File Description                                      
+| :-----------------------------: | :-------: | ------------------ | ----------- |---------------------------------------- |
+| IPCA Monthly                    | IBGE      | Link               | 2020-12-01  |Brazilian monthly main CPI Index         |
+| IPCA Yearly                     | IBGE      | Link               | 2020-12-01  |Brazilian yearly (Jan-Dec) main CPI Index|
+| Brazilian Implicit GDP Deflator | IBGE      | Link               | 2020        |Brazilian inplicit GDP Deflator          |
