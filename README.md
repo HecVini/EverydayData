@@ -32,17 +32,17 @@ library(anytime) #clean time date string
 '''
 
 #### Inflation
-| Dateset                         | Source    | Col. Description   | Last Update |File Description                                      
-| :-----------------------------: | :-------: | ------------------ | ----------- |---------------------------------------- |
-| IPCA Monthly                    | IBGE      | Link               | 2020-12-01  |Brazilian monthly main CPI Index         |
-| IPCA Yearly                     | IBGE      | Link               | 2020-12-01  |Brazilian yearly (Jan-Dec) main CPI Index|
-| Brazilian Implicit GDP Deflator | IBGE      | Link               | 2020        |Brazilian inplicit GDP Deflator          |
+| **Dateset**.                    | **Source** | **Col. Description** | **Last Update** |**File Description**                     |                  
+| :-----------------------------: | :--------- | -------------------- | --------------- |---------------------------------------- |
+| IPCA Monthly                    | IBGE       | Link                 | 2020-12-01      |Brazilian monthly main CPI Index         |
+| IPCA Yearly                     | IBGE       | Link                 | 2020-12-01      |Brazilian yearly (Jan-Dec) main CPI Index|
+| Brazilian Implicit GDP Deflator | IBGE       | Link                 | 2020            |Brazilian inplicit GDP Deflator          |
 
 #### Brazilian Geographic Regions
-| Dateset                    | Source    | Col. Description   | Last Update |File Description                                      
-| :------------------------: | :-------: | ------------------ | ----------- |--------------------------------------------- |
-| Municipalities ID Codes    | IBGE      | Link               | 2020        |5570 Brazilian cities IDs and names           |
-| States ID Codes            | IBGE      | Link               | 2020        |27 Brazilian states IDs and names             |
-| Immediate Regions ID Codes | IBGE      | Link               | 2020        |510 Brazilian immediate regions IDs and names |
-| Municipalities Biomes.     | IBGE      | Link               | 2020        |5570 Brazilian cities biomes                  |
+| **Dateset**.               | **Source** | **Col. Description** | **Last Update** |**File Description**                          |          
+| :------------------------: | :--------: | -------------------- | --------------- |--------------------------------------------- |
+| Municipalities ID Codes    | IBGE       | Link                 | 2020            |5570 Brazilian cities IDs and names           |
+| States ID Codes            | IBGE       | Link                 | 2020            |27 Brazilian states IDs and names             |
+| Immediate Regions ID Codes | IBGE       | Link                 | 2020            |510 Brazilian immediate regions IDs and names |
+| Municipalities Biomes.     | IBGE       | Link                 | 2020            |5570 Brazilian cities biomes                  |
 
