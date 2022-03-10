@@ -4,6 +4,7 @@
 Hi! Welcome to my day-to-day dataset. I have been work a lot with numbers on the enviroment, the economy and production, and maybe it can help you all.
 Sources, code lines and final datasets are available. All ata description is listed below. Mostrly done in R. 
 All data is divided into four 5 categories: Default Patterns, Greenhouse Gases (GHGs) Emissions, Land-Use and Farming, World Indicators and Brazilian Indicators. 
+Dates are always set on YYYY-MM-DD format (if available).
 
 Tips and comments are totally welcome!
 For some dataviz-related work, follow me on Twitter: [@hec_vini](https://twitter.com/hec_vini). Also, connect with me on [LinkedIn](https://www.linkedin.com/in/viniciushpires/)
@@ -31,8 +32,8 @@ library(anytime) #clean time date string
 '''
 
 #### Inflation
-| Dateset          | Source           | Column Description   | File Description                                                            |
-| ---------------- | ---------------- | -------------------- |---------------------------------------------------------------------------- |
-| IPCA Monthly     | right-aligned    | $1600.               |                                                                             |
-| IPCA Yearly      | centered         |   $12                |                                                                             |
-| Brazilian Implicit GDP Deflator   | are neat         |    $1                |                                                                             |
+| Dateset                         | Source    | Col. Description   | Last Update (ymd)  |File Description                                      
+| :-----------------------------: | :-------: | ------------------ | ------------------ |---------------------------------------- |
+| IPCA Monthly                    | IBGE      | Link               | 2020-12-01         |Brazilian monthly main CPI Index         |
+| IPCA Yearly                     | IBGE      | Link               | 2020-12-01         |Brazilian yearly (Jan-Dec) main CPI Index|
+| Brazilian Implicit GDP Deflator | IBGE      | Link               | 2020               |Brazilian inplicit GDP Deflator          |
