@@ -14,7 +14,7 @@ For some dataviz-related work, follow me on Twitter: [@hec_vini](https://twitter
 Every scrip follow some rules and often use some structure. Here they are:
 
 #### Packages 
-'''
+```
 library(tidyverse) 
 library(lubridate) #To work with dates
 library(janitor) #To easily manage date, especially Excel dates and clean_names() function. 
@@ -30,10 +30,10 @@ library(geobr) #Brazilian Geographic data
 library(textclean) #Useful to clean strings, mostly to trim white spaces
 library(ggh4x) #Hacks for ggplot2
 library(anytime) #clean time date string
-'''
+```
 
 #### Inflation
-| `Dateset`                       | `Source` | `Col. Description` | `Last Update` | `File Description`                      |                  
+| `Dateset`                       | `Source` | `Col. Description` | `Coverage`    | `File Description`                      |                  
 | :-----------------------------: | :------- | ------------------ | ------------- |---------------------------------------- |
 | IPCA Monthly                    | IBGE     | Link               | 2020-12-01    |Brazilian monthly main CPI Index         |
 | IPCA Yearly                     | IBGE     | Link               | 2020-12-01    |Brazilian yearly (Jan-Dec) main CPI Index|
