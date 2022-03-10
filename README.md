@@ -1,8 +1,9 @@
 # EverydayData
 
 ## Introduction 
-Hi! Welcome to my day-to-day dataset. I have been work a lot with numbers on the enviroment, the economy and production, and maybe it can help you all.
-Sources, code lines and final datasets are available. All ata description is listed below. Mostrly done in R. 
+Hi! Welcome to my day-to-day dataset. <br/> I have been work a lot with numbers on the enviroment, the economy and production, and maybe it can help you all.
+Sources, code lines and final datasets are available. All data description is listed below. Mostly done in R. <br/>
+
 All data is divided into four 5 categories: Default Patterns, Greenhouse Gases (GHGs) Emissions, Land-Use and Farming, World Indicators and Brazilian Indicators. 
 Dates are always set on YYYY-MM-DD format (if available).
 
@@ -39,7 +40,7 @@ library(anytime) #clean time date string
 | Brazilian Implicit GDP Deflator | IBGE     | Link               | 2020          |Brazilian inplicit GDP Deflator          |
 
 #### Brazilian Geographic Regions
-| **Dateset**.               | **Source** | **Col. Description** | **Last Update** |**File Description**                          |          
+| `Dateset`                  | `Source`   | `Col. Description`   | `Last Update`   | `File Description`                         |          
 | :------------------------: | :--------: | -------------------- | --------------- |--------------------------------------------- |
 | Municipalities ID Codes    | IBGE       | Link                 | 2020            |5570 Brazilian cities IDs and names           |
 | States ID Codes            | IBGE       | Link                 | 2020            |27 Brazilian states IDs and names             |
