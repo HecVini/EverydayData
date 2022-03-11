@@ -41,5 +41,8 @@ library(anytime) #clean time date string
 | [BRA GDP Implicit Deflator](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/deflator_implicito.csv) | [IPEAData](http://www.ipeadata.gov.br/Default.aspx) |      [Link]()      |          1996 to 2020         | Brazilian implicit GDP deflator       |
 
 #### Brazilian Geographic Regions
+|                                                    `Dataset`                                                   |                                                                                `Source`                                                                                | `Col. Description` | `Coverage` | `Description`                         |
+|:--------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:----------:|---------------------------------------|
+| [Munnicipalies Codes](https://github.com/HecVini/EverydayData/blob/main/Clean%20Data/municipalities_codes.csv) | [IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?edicao=30111&t=acesso-ao-produto) | [Link]()           | -          | 5570 Brazilian cities names and codes |
 
 
