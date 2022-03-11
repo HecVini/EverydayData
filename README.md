@@ -33,19 +33,13 @@ library(anytime) #clean time date string
 ```
 
 #### Inflation
-
-#### Brazilian Geographic Regions
-| `Dateset`                  | `Source`   | `Col. Description`   | `Last Update`   | `File Description`                         |          
-| :------------------------: | :--------: | -------------------- | --------------- |--------------------------------------------- |
-| Municipalities ID Codes    | IBGE       | Link                 | 2020            |5570 Brazilian cities IDs and names           |
-| States ID Codes            | IBGE       | Link                 | 2020            |27 Brazilian states IDs and names             |
-| Immediate Regions ID Codes | IBGE       | Link                 | 2020            |510 Brazilian immediate regions IDs and names |
-| Municipalities Biomes.     | IBGE       | Link                 | 2020            |5570 Brazilian cities biomes                  |
-
-
 |                                                                        `Dataset`                                                                       |                       `Source`                      | `Col. Description` |           `Coverage`          | `Description`                         |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:------------------:|:-----------------------------:|---------------------------------------|
 |                   [IPCA](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca.csv)                  | [IPEAData](http://www.ipeadata.gov.br/Default.aspx) |      [Link]()      | 1995-12-01 to <br/>2020-12-01 | Brazilian main CPI index              |
 |           [IPCA Monthly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_monthly.csv)          | [IPEAData](http://www.ipeadata.gov.br/Default.aspx) |      [Link]()      | 1995-12-01 to <br/>2020-12-01 | Brazilian CPI monthly change          |
 |            [IPCA Yearly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_yearly.csv)           | [IPEAData](http://www.ipeadata.gov.br/Default.aspx) |      [Link]()      |          1996 to 2020         | Brazilian CPI yearly (Jan-Dec) change |
 | [BRA GDP Implicit Deflator](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/deflator_implicito.csv) | [IPEAData](http://www.ipeadata.gov.br/Default.aspx) |      [Link]()      |          1996 to 2020         | Brazilian implicit GDP deflator       |
+
+#### Brazilian Geographic Regions
+
+
