@@ -47,3 +47,10 @@ library(anytime) #clean time date string
 | Immediate Regions ID Codes | IBGE       | Link                 | 2020            |510 Brazilian immediate regions IDs and names |
 | Municipalities Biomes.     | IBGE       | Link                 | 2020            |5570 Brazilian cities biomes                  |
 
+
+| `Dataset`                                                                                                                            | `Source` | `Col. Description` | `Coverage` | `Description` |
+|--------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------|------------|---------------|
+| [IPCA Monthly] (https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_monthly.csv) |          |                    |            |               |
+|                                                                                                                                      |          |                    |            |               |
+|                                                                                                                                      |          |                    |            |               |
+
