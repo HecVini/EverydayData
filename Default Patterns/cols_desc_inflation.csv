@@ -1,3 +1,0 @@
-﻿Column Name;Type;Unit;Description
-date;<date>;yyyy-mm-dd;Reference Date
-cumulative_inflation;<dbl>;-;Increase in prices between reference year and 2020
