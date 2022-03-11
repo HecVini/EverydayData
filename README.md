@@ -48,9 +48,9 @@ library(anytime) #clean time date string
 | Municipalities Biomes.     | IBGE       | Link                 | 2020            |5570 Brazilian cities biomes                  |
 
 
-| `Dataset`                                                                                                                            | `Source` | `Col. Description` | `Coverage` | `Description` |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------|------------|---------------|
-| [IPCA Monthly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_monthly.csv) |          |                    |            |               |
-|                                                                                                                                      |          |                    |            |               |
-|                                                                                                                                      |          |                    |            |               |
-
+|                                                                        `Dataset`                                                                       |                          `Source`                         | `Col. Description` |        `Coverage`        |             `Description`             |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:------------------:|:------------------------:|:-------------------------------------:|
+|                   [IPCA](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca.csv)                  |  [IBGE/IPEAData](http://www.ipeadata.gov.br/Default.aspx) |                    | 1995-12-01 to 2020-12-01 | Brazilian main CPI index              |
+|           [IPCA Monthly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_monthly.csv)          | [IBGE/IPEAData]( http://www.ipeadata.gov.br/Default.aspx) |                    |                          | Brazilian CPI monthly change          |
+|            [IPCA Yearly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_yearly.csv)           | [IBGE/IPEAData]( http://www.ipeadata.gov.br/Default.aspx) |                    |       1996 to 2020       | Brazilian CPI yearly (Jan-Dec) change |
+| [BRA GDP Implicit Deflator](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/deflator_implicito.csv) | [IBGE/IPEAData]( http://www.ipeadata.gov.br/Default.aspx) |                    |                          | Brazilian implicit GDP deflator       |
