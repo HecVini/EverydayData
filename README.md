@@ -35,7 +35,7 @@ library(anytime) #clean time date string
 #### Inflation
 | `Dateset`                       | `Source` | `Col. Description` | `Coverage`    | `File Description`                      |                  
 | :-----------------------------: | :------- | ------------------ | ------------- |---------------------------------------- |
-| [IPCA Monthly](EverydaData/Clean Data/deflator_implicito.csv)                    | IBGE     | Link               | 2020-12-01    |Brazilian monthly main CPI Index         |
+| [IPCA Monthly](https://github.com/HecVini/EverydayData/blob/c11257ff4c8227c1a6ec1020875a29807a29b399/Clean%20Data/ipca_monthly.csv)                    | IBGE     | Link               | 2020-12-01    |Brazilian monthly main CPI Index         |
 | IPCA Yearly                     | IBGE     | Link               | 2020-12-01    |Brazilian yearly (Jan-Dec) main CPI Index|
 | Brazilian Implicit GDP Deflator | IBGE     | Link               | 2020          |Brazilian inplicit GDP Deflator          |
 
