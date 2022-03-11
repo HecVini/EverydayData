@@ -1,0 +1,921 @@
+"","year","code_state","level_one","level_two","emissions_type","co2e_emissions"
+"1",1970,"BR","Agropecuária","Cultivo de Arroz","net",6288149.70196
+"2",1970,"BR","Agropecuária","Fermentação Entérica","net",151816021.86632
+"3",1970,"BR","Agropecuária","Manejo de Dejetos Animais","net",10598844.0445
+"4",1970,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",639732.35543
+"5",1970,"BR","Agropecuária","Solos Manejados","net",43502904.54629
+"6",1970,"BR","Energia","Emissões Fugitivas","net",2571805.16888796
+"7",1970,"BR","Energia","Emissões pela Queima de Combustíveis","net",102017265.634925
+"8",1970,"BR","Processos Industriais","Emissões de HFCs","net",0
+"9",1970,"BR","Processos Industriais","Indústria Química","net",1929678.91666904
+"10",1970,"BR","Processos Industriais","Produção de Metais","net",6242364.5125165
+"11",1970,"BR","Processos Industriais","Produtos Minerais","net",5390673.41130241
+"12",1970,"BR","Processos Industriais","Uso de SF6","net",0
+"13",1970,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"14",1970,"BR","Resíduos","Resíduos Sólidos","net",316967.475653789
+"15",1970,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",9446185.06162825
+"16",1971,"BR","Agropecuária","Cultivo de Arroz","net",5737616.81164
+"17",1971,"BR","Agropecuária","Fermentação Entérica","net",158426522.09944
+"18",1971,"BR","Agropecuária","Manejo de Dejetos Animais","net",11017092.76411
+"19",1971,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",687338.19815
+"20",1971,"BR","Agropecuária","Solos Manejados","net",45200070.49446
+"21",1971,"BR","Energia","Emissões Fugitivas","net",2840683.12245858
+"22",1971,"BR","Energia","Emissões pela Queima de Combustíveis","net",112111497.985739
+"23",1971,"BR","Processos Industriais","Emissões de HFCs","net",0
+"24",1971,"BR","Processos Industriais","Indústria Química","net",2126183.38585546
+"25",1971,"BR","Processos Industriais","Produção de Metais","net",6297611.83511829
+"26",1971,"BR","Processos Industriais","Produtos Minerais","net",5795527.82641526
+"27",1971,"BR","Processos Industriais","Uso de SF6","net",0
+"28",1971,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"29",1971,"BR","Resíduos","Resíduos Sólidos","net",569939.617999439
+"30",1971,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",9703964.7297321
+"31",1972,"BR","Agropecuária","Cultivo de Arroz","net",5805003.26728
+"32",1972,"BR","Agropecuária","Fermentação Entérica","net",165037026.364
+"33",1972,"BR","Agropecuária","Manejo de Dejetos Animais","net",11441919.24757
+"34",1972,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",734944.13427
+"35",1972,"BR","Agropecuária","Solos Manejados","net",47627697.26807
+"36",1972,"BR","Energia","Emissões Fugitivas","net",3330329.2864985
+"37",1972,"BR","Energia","Emissões pela Queima de Combustíveis","net",119839757.990324
+"38",1972,"BR","Processos Industriais","Emissões de HFCs","net",0
+"39",1972,"BR","Processos Industriais","Indústria Química","net",2669567.26709875
+"40",1972,"BR","Processos Industriais","Produção de Metais","net",6903108.87124248
+"41",1972,"BR","Processos Industriais","Produtos Minerais","net",6501488.03431952
+"42",1972,"BR","Processos Industriais","Uso de SF6","net",0
+"43",1972,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"44",1972,"BR","Resíduos","Resíduos Sólidos","net",834786.730606774
+"45",1972,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",10006808.8875604
+"46",1973,"BR","Agropecuária","Cultivo de Arroz","net",6171465.82248
+"47",1973,"BR","Agropecuária","Fermentação Entérica","net",171646486.3806
+"48",1973,"BR","Agropecuária","Manejo de Dejetos Animais","net",11869201.3882
+"49",1973,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",782550.01717
+"50",1973,"BR","Agropecuária","Solos Manejados","net",49008835.5634
+"51",1973,"BR","Energia","Emissões Fugitivas","net",3792505.94184432
+"52",1973,"BR","Energia","Emissões pela Queima de Combustíveis","net",136553518.532158
+"53",1973,"BR","Processos Industriais","Emissões de HFCs","net",0
+"54",1973,"BR","Processos Industriais","Indústria Química","net",2977731.73065657
+"55",1973,"BR","Processos Industriais","Produção de Metais","net",7191423.08779046
+"56",1973,"BR","Processos Industriais","Produtos Minerais","net",7452395.69925812
+"57",1973,"BR","Processos Industriais","Uso de SF6","net",0
+"58",1973,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"59",1973,"BR","Resíduos","Resíduos Sólidos","net",1105111.86297451
+"60",1973,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",10315545.3974884
+"61",1974,"BR","Agropecuária","Cultivo de Arroz","net",6258822.53052
+"62",1974,"BR","Agropecuária","Fermentação Entérica","net",178393758.95012
+"63",1974,"BR","Agropecuária","Manejo de Dejetos Animais","net",12414061.79905
+"64",1974,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",830155.89478
+"65",1974,"BR","Agropecuária","Solos Manejados","net",51484860.90178
+"66",1974,"BR","Energia","Emissões Fugitivas","net",4763028.92518467
+"67",1974,"BR","Energia","Emissões pela Queima de Combustíveis","net",146157639.729499
+"68",1974,"BR","Processos Industriais","Emissões de HFCs","net",0
+"69",1974,"BR","Processos Industriais","Indústria Química","net",3517365.445529
+"70",1974,"BR","Processos Industriais","Produção de Metais","net",7503765.26146617
+"71",1974,"BR","Processos Industriais","Produtos Minerais","net",8158440.62667384
+"72",1974,"BR","Processos Industriais","Uso de SF6","net",0
+"73",1974,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"74",1974,"BR","Resíduos","Resíduos Sólidos","net",1381408.5373298
+"75",1974,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",10641864.7963241
+"76",1975,"BR","Agropecuária","Cultivo de Arroz","net",6761180.99972
+"77",1975,"BR","Agropecuária","Fermentação Entérica","net",196989275.24024
+"78",1975,"BR","Agropecuária","Manejo de Dejetos Animais","net",13965373.08384
+"79",1975,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",789687.37476
+"80",1975,"BR","Agropecuária","Solos Manejados","net",55159325.81017
+"81",1975,"BR","Energia","Emissões Fugitivas","net",4741083.9174618
+"82",1975,"BR","Energia","Emissões pela Queima de Combustíveis","net",152944847.469855
+"83",1975,"BR","Processos Industriais","Emissões de HFCs","net",0
+"84",1975,"BR","Processos Industriais","Indústria Química","net",3572735.90982643
+"85",1975,"BR","Processos Industriais","Produção de Metais","net",9052132.75876291
+"86",1975,"BR","Processos Industriais","Produtos Minerais","net",8942350.82421813
+"87",1975,"BR","Processos Industriais","Uso de SF6","net",0
+"88",1975,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"89",1975,"BR","Resíduos","Resíduos Sólidos","net",1664041.12302259
+"90",1975,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",10963131.8923829
+"91",1976,"BR","Agropecuária","Cultivo de Arroz","net",7886802.78568
+"92",1976,"BR","Agropecuária","Fermentação Entérica","net",205702466.76364
+"93",1976,"BR","Agropecuária","Manejo de Dejetos Animais","net",14544682.70952
+"94",1976,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",812252.43643
+"95",1976,"BR","Agropecuária","Solos Manejados","net",57755046.1096
+"96",1976,"BR","Energia","Emissões Fugitivas","net",5401693.40507588
+"97",1976,"BR","Energia","Emissões pela Queima de Combustíveis","net",165057833.029476
+"98",1976,"BR","Processos Industriais","Emissões de HFCs","net",0
+"99",1976,"BR","Processos Industriais","Indústria Química","net",4508527.36357815
+"100",1976,"BR","Processos Industriais","Produção de Metais","net",10275485.4760068
+"101",1976,"BR","Processos Industriais","Produtos Minerais","net",10024826.0051605
+"102",1976,"BR","Processos Industriais","Uso de SF6","net",0
+"103",1976,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"104",1976,"BR","Resíduos","Resíduos Sólidos","net",1953227.49790819
+"105",1976,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",11247274.8071993
+"106",1977,"BR","Agropecuária","Cultivo de Arroz","net",7795191.14864
+"107",1977,"BR","Agropecuária","Fermentação Entérica","net",206017345.48836
+"108",1977,"BR","Agropecuária","Manejo de Dejetos Animais","net",13853169.54455
+"109",1977,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1000304.32581
+"110",1977,"BR","Agropecuária","Solos Manejados","net",59570611.99344
+"111",1977,"BR","Energia","Emissões Fugitivas","net",5946521.65749321
+"112",1977,"BR","Energia","Emissões pela Queima de Combustíveis","net",166879337.48843
+"113",1977,"BR","Processos Industriais","Emissões de HFCs","net",0
+"114",1977,"BR","Processos Industriais","Indústria Química","net",4754777.40505256
+"115",1977,"BR","Processos Industriais","Produção de Metais","net",13465790.9283726
+"116",1977,"BR","Processos Industriais","Produtos Minerais","net",11334906.0122684
+"117",1977,"BR","Processos Industriais","Uso de SF6","net",0
+"118",1977,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"119",1977,"BR","Resíduos","Resíduos Sólidos","net",2249357.65486648
+"120",1977,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",11597670.3859054
+"121",1978,"BR","Agropecuária","Cultivo de Arroz","net",6984279.39468
+"122",1978,"BR","Agropecuária","Fermentação Entérica","net",205265827.24816
+"123",1978,"BR","Agropecuária","Manejo de Dejetos Animais","net",14065238.75409
+"124",1978,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1004681.54153
+"125",1978,"BR","Agropecuária","Solos Manejados","net",59275489.60201
+"126",1978,"BR","Energia","Emissões Fugitivas","net",6880537.82215739
+"127",1978,"BR","Energia","Emissões pela Queima de Combustíveis","net",177952499.185587
+"128",1978,"BR","Processos Industriais","Emissões de HFCs","net",0
+"129",1978,"BR","Processos Industriais","Indústria Química","net",5083038.51032293
+"130",1978,"BR","Processos Industriais","Produção de Metais","net",14843845.8075273
+"131",1978,"BR","Processos Industriais","Produtos Minerais","net",12656065.7965245
+"132",1978,"BR","Processos Industriais","Uso de SF6","net",0
+"133",1978,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"134",1978,"BR","Resíduos","Resíduos Sólidos","net",2563110.76714122
+"135",1978,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",11904154.4023655
+"136",1979,"BR","Agropecuária","Cultivo de Arroz","net",7850382.16844
+"137",1979,"BR","Agropecuária","Fermentação Entérica","net",209989189.27448
+"138",1979,"BR","Agropecuária","Manejo de Dejetos Animais","net",14758427.35279
+"139",1979,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1119075.0806
+"140",1979,"BR","Agropecuária","Solos Manejados","net",61503372.21312
+"141",1979,"BR","Energia","Emissões Fugitivas","net",7417730.65481755
+"142",1979,"BR","Energia","Emissões pela Queima de Combustíveis","net",186009729.478994
+"143",1979,"BR","Processos Industriais","Emissões de HFCs","net",0
+"144",1979,"BR","Processos Industriais","Indústria Química","net",5310454.92031953
+"145",1979,"BR","Processos Industriais","Produção de Metais","net",17042902.3666101
+"146",1979,"BR","Processos Industriais","Produtos Minerais","net",13724989.9721215
+"147",1979,"BR","Processos Industriais","Uso de SF6","net",0
+"148",1979,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"149",1979,"BR","Resíduos","Resíduos Sólidos","net",2893238.5146953
+"150",1979,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",12269937.8866208
+"151",1980,"BR","Agropecuária","Cultivo de Arroz","net",8293993.09928
+"152",1980,"BR","Agropecuária","Fermentação Entérica","net",228549029.70956
+"153",1980,"BR","Agropecuária","Manejo de Dejetos Animais","net",14476503.9747
+"154",1980,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1201450.82991
+"155",1980,"BR","Agropecuária","Solos Manejados","net",66436514.80321
+"156",1980,"BR","Energia","Emissões Fugitivas","net",7533883.14116593
+"157",1980,"BR","Energia","Emissões pela Queima de Combustíveis","net",182702195.2635
+"158",1980,"BR","Processos Industriais","Emissões de HFCs","net",0
+"159",1980,"BR","Processos Industriais","Indústria Química","net",5567244.69323638
+"160",1980,"BR","Processos Industriais","Produção de Metais","net",17861934.0007002
+"161",1980,"BR","Processos Industriais","Produtos Minerais","net",14773985.4233166
+"162",1980,"BR","Processos Industriais","Uso de SF6","net",0
+"163",1980,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"164",1980,"BR","Resíduos","Resíduos Sólidos","net",3244811.37306144
+"165",1980,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",12725551.0862456
+"166",1981,"BR","Agropecuária","Cultivo de Arroz","net",8022006.5366
+"167",1981,"BR","Agropecuária","Fermentação Entérica","net",234013488.856
+"168",1981,"BR","Agropecuária","Manejo de Dejetos Animais","net",14145657.73466
+"169",1981,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1265426.07866
+"170",1981,"BR","Agropecuária","Solos Manejados","net",65945915.33637
+"171",1981,"BR","Energia","Emissões Fugitivas","net",7859360.30949369
+"172",1981,"BR","Energia","Emissões pela Queima de Combustíveis","net",173234941.578991
+"173",1981,"BR","Processos Industriais","Emissões de HFCs","net",0
+"174",1981,"BR","Processos Industriais","Indústria Química","net",5284602.46010882
+"175",1981,"BR","Processos Industriais","Produção de Metais","net",14935888.5584965
+"176",1981,"BR","Processos Industriais","Produtos Minerais","net",14205498.588887
+"177",1981,"BR","Processos Industriais","Uso de SF6","net",0
+"178",1981,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"179",1981,"BR","Resíduos","Resíduos Sólidos","net",3708213.28382723
+"180",1981,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",12991984.1264515
+"181",1982,"BR","Agropecuária","Cultivo de Arroz","net",8252614.42264
+"182",1982,"BR","Agropecuária","Fermentação Entérica","net",237221790.47448
+"183",1982,"BR","Agropecuária","Manejo de Dejetos Animais","net",14478146.91122
+"184",1982,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1487439.92385
+"185",1982,"BR","Agropecuária","Solos Manejados","net",66602610.85379
+"186",1982,"BR","Energia","Emissões Fugitivas","net",8508730.6532958
+"187",1982,"BR","Energia","Emissões pela Queima de Combustíveis","net",171355740.384788
+"188",1982,"BR","Processos Industriais","Emissões de HFCs","net",0
+"189",1982,"BR","Processos Industriais","Indústria Química","net",5519334.41796787
+"190",1982,"BR","Processos Industriais","Produção de Metais","net",16034064.9105742
+"191",1982,"BR","Processos Industriais","Produtos Minerais","net",14080821.6378134
+"192",1982,"BR","Processos Industriais","Uso de SF6","net",0
+"193",1982,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"194",1982,"BR","Resíduos","Resíduos Sólidos","net",4273256.21584739
+"195",1982,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",13293873.9393896
+"196",1983,"BR","Agropecuária","Cultivo de Arroz","net",8638456.84828
+"197",1983,"BR","Agropecuária","Fermentação Entérica","net",238507165.94936
+"198",1983,"BR","Agropecuária","Manejo de Dejetos Animais","net",14262069.63176
+"199",1983,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1672211.18043
+"200",1983,"BR","Agropecuária","Solos Manejados","net",66190320.69143
+"201",1983,"BR","Energia","Emissões Fugitivas","net",8968412.59417555
+"202",1983,"BR","Energia","Emissões pela Queima de Combustíveis","net",158635445.967983
+"203",1983,"BR","Processos Industriais","Emissões de HFCs","net",0
+"204",1983,"BR","Processos Industriais","Indústria Química","net",6264911.50125346
+"205",1983,"BR","Processos Industriais","Produção de Metais","net",18934079.7607587
+"206",1983,"BR","Processos Industriais","Produtos Minerais","net",12059210.2534762
+"207",1983,"BR","Processos Industriais","Uso de SF6","net",0
+"208",1983,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"209",1983,"BR","Resíduos","Resíduos Sólidos","net",4950798.51363493
+"210",1983,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",13583642.6511865
+"211",1984,"BR","Agropecuária","Cultivo de Arroz","net",9016587.0284
+"212",1984,"BR","Agropecuária","Fermentação Entérica","net",245246752.43404
+"213",1984,"BR","Agropecuária","Manejo de Dejetos Animais","net",14745213.08073
+"214",1984,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1706656.69532
+"215",1984,"BR","Agropecuária","Solos Manejados","net",69934347.40934
+"216",1984,"BR","Energia","Emissões Fugitivas","net",10413872.3586959
+"217",1984,"BR","Energia","Emissões pela Queima de Combustíveis","net",155323428.722995
+"218",1984,"BR","Processos Industriais","Emissões de HFCs","net",0
+"219",1984,"BR","Processos Industriais","Indústria Química","net",5774868.17806863
+"220",1984,"BR","Processos Industriais","Produção de Metais","net",24540595.9142084
+"221",1984,"BR","Processos Industriais","Produtos Minerais","net",11569903.0052898
+"222",1984,"BR","Processos Industriais","Uso de SF6","net",0
+"223",1984,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",0
+"224",1984,"BR","Resíduos","Resíduos Sólidos","net",5640761.41979089
+"225",1984,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",13902012.4151323
+"226",1985,"BR","Agropecuária","Cultivo de Arroz","net",9229452.1046
+"227",1985,"BR","Agropecuária","Fermentação Entérica","net",246797749.26212
+"228",1985,"BR","Agropecuária","Manejo de Dejetos Animais","net",14951479.83072
+"229",1985,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2007768.68071
+"230",1985,"BR","Agropecuária","Solos Manejados","net",70873234.73105
+"231",1985,"BR","Energia","Emissões Fugitivas","net",10963651.5211181
+"232",1985,"BR","Energia","Emissões pela Queima de Combustíveis","net",161404484.79541
+"233",1985,"BR","Processos Industriais","Emissões de HFCs","net",0
+"234",1985,"BR","Processos Industriais","Indústria Química","net",5584780.15323991
+"235",1985,"BR","Processos Industriais","Produção de Metais","net",27471012.1404519
+"236",1985,"BR","Processos Industriais","Produtos Minerais","net",12360625.7460935
+"237",1985,"BR","Processos Industriais","Uso de SF6","net",0
+"238",1985,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",454175.4894336
+"239",1985,"BR","Resíduos","Resíduos Sólidos","net",6353712.64857894
+"240",1985,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",14205588.651256
+"241",1986,"BR","Agropecuária","Cultivo de Arroz","net",9069758.4166
+"242",1986,"BR","Agropecuária","Fermentação Entérica","net",254202220.25968
+"243",1986,"BR","Agropecuária","Manejo de Dejetos Animais","net",15259457.48946
+"244",1986,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1860723.67259
+"245",1986,"BR","Agropecuária","Solos Manejados","net",72380511.48678
+"246",1986,"BR","Energia","Emissões Fugitivas","net",11197499.5719935
+"247",1986,"BR","Energia","Emissões pela Queima de Combustíveis","net",179091080.347693
+"248",1986,"BR","Processos Industriais","Emissões de HFCs","net",0
+"249",1986,"BR","Processos Industriais","Indústria Química","net",5988744.28279901
+"250",1986,"BR","Processos Industriais","Produção de Metais","net",27829062.7653252
+"251",1986,"BR","Processos Industriais","Produtos Minerais","net",14322864.4118246
+"252",1986,"BR","Processos Industriais","Uso de SF6","net",0
+"253",1986,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",449214.834816
+"254",1986,"BR","Resíduos","Resíduos Sólidos","net",7092418.81957298
+"255",1986,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",14550951.9728397
+"256",1987,"BR","Agropecuária","Cultivo de Arroz","net",9604192.22532
+"257",1987,"BR","Agropecuária","Fermentação Entérica","net",260927509.32472
+"258",1987,"BR","Agropecuária","Manejo de Dejetos Animais","net",15719008.67229
+"259",1987,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1987358.04323
+"260",1987,"BR","Agropecuária","Solos Manejados","net",75077353.47126
+"261",1987,"BR","Energia","Emissões Fugitivas","net",10956063.7902462
+"262",1987,"BR","Energia","Emissões pela Queima de Combustíveis","net",182430491.1514
+"263",1987,"BR","Processos Industriais","Emissões de HFCs","net",0
+"264",1987,"BR","Processos Industriais","Indústria Química","net",5998732.3333414
+"265",1987,"BR","Processos Industriais","Produção de Metais","net",31083352.4589765
+"266",1987,"BR","Processos Industriais","Produtos Minerais","net",14569447.7479106
+"267",1987,"BR","Processos Industriais","Uso de SF6","net",0
+"268",1987,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",399608.28864
+"269",1987,"BR","Resíduos","Resíduos Sólidos","net",7859476.32634058
+"270",1987,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",14858915.3160596
+"271",1988,"BR","Agropecuária","Cultivo de Arroz","net",10164890.80208
+"272",1988,"BR","Agropecuária","Fermentação Entérica","net",268211525.10992
+"273",1988,"BR","Agropecuária","Manejo de Dejetos Animais","net",16163335.27022
+"274",1988,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1947470.38301
+"275",1988,"BR","Agropecuária","Solos Manejados","net",76641700.0923
+"276",1988,"BR","Energia","Emissões Fugitivas","net",11251968.3526062
+"277",1988,"BR","Energia","Emissões pela Queima de Combustíveis","net",182918273.967251
+"278",1988,"BR","Processos Industriais","Emissões de HFCs","net",0
+"279",1988,"BR","Processos Industriais","Indústria Química","net",5927847.99018349
+"280",1988,"BR","Processos Industriais","Produção de Metais","net",34487149.2364015
+"281",1988,"BR","Processos Industriais","Produtos Minerais","net",14599439.9505935
+"282",1988,"BR","Processos Industriais","Uso de SF6","net",0
+"283",1988,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",380297.40046848
+"284",1988,"BR","Resíduos","Resíduos Sólidos","net",8657494.0925507
+"285",1988,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",15157489.795189
+"286",1989,"BR","Agropecuária","Cultivo de Arroz","net",10273710.62956
+"287",1989,"BR","Agropecuária","Fermentação Entérica","net",276733581.06072
+"288",1989,"BR","Agropecuária","Manejo de Dejetos Animais","net",16760727.49429
+"289",1989,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1844526.26252
+"290",1989,"BR","Agropecuária","Solos Manejados","net",79473791.10601
+"291",1989,"BR","Energia","Emissões Fugitivas","net",11005898.8403022
+"292",1989,"BR","Energia","Emissões pela Queima de Combustíveis","net",185500625.813659
+"293",1989,"BR","Processos Industriais","Emissões de HFCs","net",0
+"294",1989,"BR","Processos Industriais","Indústria Química","net",6173550.44355027
+"295",1989,"BR","Processos Industriais","Produção de Metais","net",34085997.1231135
+"296",1989,"BR","Processos Industriais","Produtos Minerais","net",14951631.8102636
+"297",1989,"BR","Processos Industriais","Uso de SF6","net",0
+"298",1989,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",407329.01663256
+"299",1989,"BR","Resíduos","Resíduos Sólidos","net",9489337.97948243
+"300",1989,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",15537063.6806098
+"301",1990,"BR","Agropecuária","Cultivo de Arroz","net",9272834.93388
+"302",1990,"BR","Agropecuária","Fermentação Entérica","net",282683054.983
+"303",1990,"BR","Agropecuária","Manejo de Dejetos Animais","net",17022802.51613
+"304",1990,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1886873.01049
+"305",1990,"BR","Agropecuária","Solos Manejados","net",79587469.45309
+"306",1990,"BR","Energia","Emissões Fugitivas","net",10101748.9114933
+"307",1990,"BR","Energia","Emissões pela Queima de Combustíveis","net",183571390.518764
+"308",1990,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1309669451
+"309",1990,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-93634895
+"310",1990,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-2359949
+"311",1990,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-54201
+"312",1990,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",81356466
+"313",1990,"BR","Processos Industriais","Emissões de HFCs","net",1492276
+"314",1990,"BR","Processos Industriais","Indústria Química","net",5353519.648752
+"315",1990,"BR","Processos Industriais","Produção de Metais","net",29106932.357723
+"316",1990,"BR","Processos Industriais","Produtos Minerais","net",14998012.324817
+"317",1990,"BR","Processos Industriais","Uso de SF6","net",98700
+"318",1990,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",428073.800219691
+"319",1990,"BR","Resíduos","Resíduos Sólidos","net",10365115.9685
+"320",1990,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",17941820.6787147
+"321",1991,"BR","Agropecuária","Cultivo de Arroz","net",10087949.4688
+"322",1991,"BR","Agropecuária","Fermentação Entérica","net",292330621.39176
+"323",1991,"BR","Agropecuária","Manejo de Dejetos Animais","net",17703446.97848
+"324",1991,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1861054.94608
+"325",1991,"BR","Agropecuária","Solos Manejados","net",81484527.21781
+"326",1991,"BR","Energia","Emissões Fugitivas","net",10021134.3540307
+"327",1991,"BR","Energia","Emissões pela Queima de Combustíveis","net",188053348.444635
+"328",1991,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1382217603
+"329",1991,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-63670648
+"330",1991,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3633752
+"331",1991,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-15431837
+"332",1991,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",84257976
+"333",1991,"BR","Processos Industriais","Emissões de HFCs","net",1707588
+"334",1991,"BR","Processos Industriais","Indústria Química","net",5875877.0382216
+"335",1991,"BR","Processos Industriais","Produção de Metais","net",34018727.3906321
+"336",1991,"BR","Processos Industriais","Produtos Minerais","net",15788335.8309587
+"337",1991,"BR","Processos Industriais","Uso de SF6","net",94000
+"338",1991,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",411672.505192117
+"339",1991,"BR","Resíduos","Resíduos Sólidos","net",11375780.1296582
+"340",1991,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",18385478.9044205
+"341",1992,"BR","Agropecuária","Cultivo de Arroz","net",10797257.324
+"342",1992,"BR","Agropecuária","Fermentação Entérica","net",296449363.4144
+"343",1992,"BR","Agropecuária","Manejo de Dejetos Animais","net",18088171.02301
+"344",1992,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1896234.9267
+"345",1992,"BR","Agropecuária","Solos Manejados","net",84123382.24335
+"346",1992,"BR","Energia","Emissões Fugitivas","net",9840153.12670341
+"347",1992,"BR","Energia","Emissões pela Queima de Combustíveis","net",192321779.219803
+"348",1992,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1613968896
+"349",1992,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-93421872
+"350",1992,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3538279
+"351",1992,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-28199635
+"352",1992,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",101749699
+"353",1992,"BR","Processos Industriais","Emissões de HFCs","net",2039690
+"354",1992,"BR","Processos Industriais","Indústria Química","net",5672926.8815196
+"355",1992,"BR","Processos Industriais","Produção de Metais","net",34338517.6464941
+"356",1992,"BR","Processos Industriais","Produtos Minerais","net",13932263.6282148
+"357",1992,"BR","Processos Industriais","Uso de SF6","net",94000
+"358",1992,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",342240.356242052
+"359",1992,"BR","Resíduos","Resíduos Sólidos","net",12465753.6696915
+"360",1992,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",18808274.78638
+"361",1993,"BR","Agropecuária","Cultivo de Arroz","net",11472691.8362
+"362",1993,"BR","Agropecuária","Fermentação Entérica","net",297964734.40356
+"363",1993,"BR","Agropecuária","Manejo de Dejetos Animais","net",17854614.8025
+"364",1993,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1666921.97812
+"365",1993,"BR","Agropecuária","Solos Manejados","net",87067281.42281
+"366",1993,"BR","Energia","Emissões Fugitivas","net",10075406.1209503
+"367",1993,"BR","Energia","Emissões pela Queima de Combustíveis","net",196535684.958065
+"368",1993,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1448510400
+"369",1993,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-112503512
+"370",1993,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3995757
+"371",1993,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-40574805
+"372",1993,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",90519699
+"373",1993,"BR","Processos Industriais","Emissões de HFCs","net",2157462
+"374",1993,"BR","Processos Industriais","Indústria Química","net",6869850.1741072
+"375",1993,"BR","Processos Industriais","Produção de Metais","net",36525221.8486313
+"376",1993,"BR","Processos Industriais","Produtos Minerais","net",14649805.3068993
+"377",1993,"BR","Processos Industriais","Uso de SF6","net",94000
+"378",1993,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",376683.075799958
+"379",1993,"BR","Resíduos","Resíduos Sólidos","net",13715301.0495096
+"380",1993,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",19149171.0363195
+"381",1994,"BR","Agropecuária","Cultivo de Arroz","net",11295728.34404
+"382",1994,"BR","Agropecuária","Fermentação Entérica","net",303722627.11476
+"383",1994,"BR","Agropecuária","Manejo de Dejetos Animais","net",18459116.02119
+"384",1994,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1969342.69007
+"385",1994,"BR","Agropecuária","Solos Manejados","net",89909181.46856
+"386",1994,"BR","Energia","Emissões Fugitivas","net",10420216.4041443
+"387",1994,"BR","Energia","Emissões pela Queima de Combustíveis","net",204592491.791425
+"388",1994,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1598227217
+"389",1994,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-122390692
+"390",1994,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-4273393
+"391",1994,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-50662337
+"392",1994,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",99334711
+"393",1994,"BR","Processos Industriais","Emissões de HFCs","net",2120330
+"394",1994,"BR","Processos Industriais","Indústria Química","net",6975611.7199696
+"395",1994,"BR","Processos Industriais","Produção de Metais","net",37324119.576853
+"396",1994,"BR","Processos Industriais","Produtos Minerais","net",14423536.4073643
+"397",1994,"BR","Processos Industriais","Uso de SF6","net",96350
+"398",1994,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",392537.66099328
+"399",1994,"BR","Resíduos","Resíduos Sólidos","net",15102831.839593
+"400",1994,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",19619004.9491525
+"401",1995,"BR","Agropecuária","Cultivo de Arroz","net",11536889.4438
+"402",1995,"BR","Agropecuária","Fermentação Entérica","net",309432701.3974
+"403",1995,"BR","Agropecuária","Manejo de Dejetos Animais","net",19081458.91051
+"404",1995,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2029693.72879
+"405",1995,"BR","Agropecuária","Solos Manejados","net",87187054.66735
+"406",1995,"BR","Energia","Emissões Fugitivas","net",9926766.14679112
+"407",1995,"BR","Energia","Emissões pela Queima de Combustíveis","net",220627279.07822
+"408",1995,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1813190353
+"409",1995,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-122528837
+"410",1995,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3875904
+"411",1995,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-63812938
+"412",1995,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",114083101
+"413",1995,"BR","Processos Industriais","Emissões de HFCs","net",2275606
+"414",1995,"BR","Processos Industriais","Indústria Química","net",7355719.861964
+"415",1995,"BR","Processos Industriais","Produção de Metais","net",38509993.199992
+"416",1995,"BR","Processos Industriais","Produtos Minerais","net",15942296.7090194
+"417",1995,"BR","Processos Industriais","Uso de SF6","net",96350
+"418",1995,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",413859.344529127
+"419",1995,"BR","Resíduos","Resíduos Sólidos","net",16627031.5175408
+"420",1995,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",20251218.3888596
+"421",1996,"BR","Agropecuária","Cultivo de Arroz","net",10006077.08464
+"422",1996,"BR","Agropecuária","Fermentação Entérica","net",289948289.49828
+"423",1996,"BR","Agropecuária","Manejo de Dejetos Animais","net",16468836.89404
+"424",1996,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1990760.41111
+"425",1996,"BR","Agropecuária","Solos Manejados","net",84817183.56797
+"426",1996,"BR","Energia","Emissões Fugitivas","net",9948627.21294179
+"427",1996,"BR","Energia","Emissões pela Queima de Combustíveis","net",238374425.74398
+"428",1996,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1553169475
+"429",1996,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-126309361
+"430",1996,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3638140
+"431",1996,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-75482586
+"432",1996,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",97734025
+"433",1996,"BR","Processos Industriais","Emissões de HFCs","net",2735336
+"434",1996,"BR","Processos Industriais","Indústria Química","net",6342667.7617316
+"435",1996,"BR","Processos Industriais","Produção de Metais","net",39292594.0057134
+"436",1996,"BR","Processos Industriais","Produtos Minerais","net",18411489.1945859
+"437",1996,"BR","Processos Industriais","Uso de SF6","net",96350
+"438",1996,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",437367.867401984
+"439",1996,"BR","Resíduos","Resíduos Sólidos","net",18291953.7273021
+"440",1996,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",20827826.4993146
+"441",1997,"BR","Agropecuária","Cultivo de Arroz","net",9439050.94244
+"442",1997,"BR","Agropecuária","Fermentação Entérica","net",294956051.15956
+"443",1997,"BR","Agropecuária","Manejo de Dejetos Animais","net",16832348.06748
+"444",1997,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1985428.90219
+"445",1997,"BR","Agropecuária","Solos Manejados","net",88192902.76772
+"446",1997,"BR","Energia","Emissões Fugitivas","net",11033723.5234213
+"447",1997,"BR","Energia","Emissões pela Queima de Combustíveis","net",254004875.955321
+"448",1997,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1535638129
+"449",1997,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-138495117
+"450",1997,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3053553
+"451",1997,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-83662692
+"452",1997,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",96787743
+"453",1997,"BR","Processos Industriais","Emissões de HFCs","net",2616648
+"454",1997,"BR","Processos Industriais","Indústria Química","net",6108932.7995064
+"455",1997,"BR","Processos Industriais","Produção de Metais","net",39473870.4776413
+"456",1997,"BR","Processos Industriais","Produtos Minerais","net",19898885.9504639
+"457",1997,"BR","Processos Industriais","Uso de SF6","net",98700
+"458",1997,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",459236.2364832
+"459",1997,"BR","Resíduos","Resíduos Sólidos","net",20149044.1776777
+"460",1997,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",21033498.2160072
+"461",1998,"BR","Agropecuária","Cultivo de Arroz","net",9323437.60404
+"462",1998,"BR","Agropecuária","Fermentação Entérica","net",299442199.5418
+"463",1998,"BR","Agropecuária","Manejo de Dejetos Animais","net",16993956.78674
+"464",1998,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2040435.46094
+"465",1998,"BR","Agropecuária","Solos Manejados","net",89701869.69521
+"466",1998,"BR","Energia","Emissões Fugitivas","net",12123682.6599796
+"467",1998,"BR","Energia","Emissões pela Queima de Combustíveis","net",260610894.796228
+"468",1998,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1496617739
+"469",1998,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-158746865
+"470",1998,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3271163
+"471",1998,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-94174800
+"472",1998,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",94617213
+"473",1998,"BR","Processos Industriais","Emissões de HFCs","net",2260936
+"474",1998,"BR","Processos Industriais","Indústria Química","net",7865032.391994
+"475",1998,"BR","Processos Industriais","Produção de Metais","net",40065477.9147086
+"476",1998,"BR","Processos Industriais","Produtos Minerais","net",20618639.8298082
+"477",1998,"BR","Processos Industriais","Uso de SF6","net",110450
+"478",1998,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",450198.3197184
+"479",1998,"BR","Resíduos","Resíduos Sólidos","net",22153929.1116188
+"480",1998,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",21438295.7361796
+"481",1999,"BR","Agropecuária","Cultivo de Arroz","net",11039768.73636
+"482",1999,"BR","Agropecuária","Fermentação Entérica","net",302515396.99192
+"483",1999,"BR","Agropecuária","Manejo de Dejetos Animais","net",17489428.82736
+"484",1999,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1937365.61827
+"485",1999,"BR","Agropecuária","Solos Manejados","net",89915749.20961
+"486",1999,"BR","Energia","Emissões Fugitivas","net",13011341.2001335
+"487",1999,"BR","Energia","Emissões pela Queima de Combustíveis","net",270344701.57593
+"488",1999,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1536659332
+"489",1999,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-194416393
+"490",1999,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3288913
+"491",1999,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-101987405
+"492",1999,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",97024138
+"493",1999,"BR","Processos Industriais","Emissões de HFCs","net",3674654
+"494",1999,"BR","Processos Industriais","Indústria Química","net",8125926.2275976
+"495",1999,"BR","Processos Industriais","Produção de Metais","net",38012228.6245217
+"496",1999,"BR","Processos Industriais","Produtos Minerais","net",21103903.614697
+"497",1999,"BR","Processos Industriais","Uso de SF6","net",115150
+"498",1999,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",468403.5979392
+"499",1999,"BR","Resíduos","Resíduos Sólidos","net",24318369.8449052
+"500",1999,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",21938369.7531993
+"501",2000,"BR","Agropecuária","Cultivo de Arroz","net",10311099.43864
+"502",2000,"BR","Agropecuária","Fermentação Entérica","net",312364175.75776
+"503",2000,"BR","Agropecuária","Manejo de Dejetos Animais","net",18201021.13221
+"504",2000,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1794205.51879
+"505",2000,"BR","Agropecuária","Solos Manejados","net",95386419.35289
+"506",2000,"BR","Energia","Emissões Fugitivas","net",14098140.9070881
+"507",2000,"BR","Energia","Emissões pela Queima de Combustíveis","net",275715437.450308
+"508",2000,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1445040882
+"509",2000,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-198070454
+"510",2000,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3345419
+"511",2000,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-107897467
+"512",2000,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",90564141
+"513",2000,"BR","Processos Industriais","Emissões de HFCs","net",2280480.8
+"514",2000,"BR","Processos Industriais","Indústria Química","net",8150175.5640896
+"515",2000,"BR","Processos Industriais","Produção de Metais","net",41707365.4512477
+"516",2000,"BR","Processos Industriais","Produtos Minerais","net",21385654.9941075
+"517",2000,"BR","Processos Industriais","Uso de SF6","net",117500
+"518",2000,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",504654.1907088
+"519",2000,"BR","Resíduos","Resíduos Sólidos","net",26654186.4953813
+"520",2000,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",22499715.4257615
+"521",2001,"BR","Agropecuária","Cultivo de Arroz","net",10062147.80228
+"522",2001,"BR","Agropecuária","Fermentação Entérica","net",325985315.42948
+"523",2001,"BR","Agropecuária","Manejo de Dejetos Animais","net",19073038.55672
+"524",2001,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1915431.30531
+"525",2001,"BR","Agropecuária","Solos Manejados","net",97163366.69833
+"526",2001,"BR","Energia","Emissões Fugitivas","net",15647518.283073
+"527",2001,"BR","Energia","Emissões pela Queima de Combustíveis","net",284010166.873488
+"528",2001,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1373017694
+"529",2001,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-199226036
+"530",2001,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3105388
+"531",2001,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-116998900
+"532",2001,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",86347360
+"533",2001,"BR","Processos Industriais","Emissões de HFCs","net",3671435
+"534",2001,"BR","Processos Industriais","Indústria Química","net",6860241.6691428
+"535",2001,"BR","Processos Industriais","Produção de Metais","net",40239397.4977854
+"536",2001,"BR","Processos Industriais","Produtos Minerais","net",20385805.231314
+"537",2001,"BR","Processos Industriais","Uso de SF6","net",119850
+"538",2001,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",453347.6083488
+"539",2001,"BR","Resíduos","Resíduos Sólidos","net",31063260.9775418
+"540",2001,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",22951764.5178523
+"541",2002,"BR","Agropecuária","Cultivo de Arroz","net",10465020.40136
+"542",2002,"BR","Agropecuária","Fermentação Entérica","net",331302922.17372
+"543",2002,"BR","Agropecuária","Manejo de Dejetos Animais","net",18996143.48692
+"544",2002,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2037258.21499
+"545",2002,"BR","Agropecuária","Solos Manejados","net",104751482.58829
+"546",2002,"BR","Energia","Emissões Fugitivas","net",14940290.0732319
+"547",2002,"BR","Energia","Emissões pela Queima de Combustíveis","net",282718185.189028
+"548",2002,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1648733762
+"549",2002,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-227646666
+"550",2002,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3496312
+"551",2002,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-124016582
+"552",2002,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",104320985
+"553",2002,"BR","Processos Industriais","Emissões de HFCs","net",3776093.8
+"554",2002,"BR","Processos Industriais","Indústria Química","net",8116680.659024
+"555",2002,"BR","Processos Industriais","Produção de Metais","net",43362399.6051578
+"556",2002,"BR","Processos Industriais","Produtos Minerais","net",19624094.8327766
+"557",2002,"BR","Processos Industriais","Uso de SF6","net",124550
+"558",2002,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",567094.6744848
+"559",2002,"BR","Resíduos","Resíduos Sólidos","net",28998195.9484658
+"560",2002,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",23457527.4525808
+"561",2003,"BR","Agropecuária","Cultivo de Arroz","net",10111834.71228
+"562",2003,"BR","Agropecuária","Fermentação Entérica","net",348842883.77316
+"563",2003,"BR","Agropecuária","Manejo de Dejetos Animais","net",19895584.07497
+"564",2003,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2250491.8702
+"565",2003,"BR","Agropecuária","Solos Manejados","net",116162483.0672
+"566",2003,"BR","Energia","Emissões Fugitivas","net",14250002.1145851
+"567",2003,"BR","Energia","Emissões pela Queima de Combustíveis","net",275967002.488836
+"568",2003,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1956385267
+"569",2003,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-241418528
+"570",2003,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3097933
+"571",2003,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-130615410
+"572",2003,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",146327067
+"573",2003,"BR","Processos Industriais","Emissões de HFCs","net",4273840.4
+"574",2003,"BR","Processos Industriais","Indústria Química","net",7903477.6683924
+"575",2003,"BR","Processos Industriais","Produção de Metais","net",45338087.915728
+"576",2003,"BR","Processos Industriais","Produtos Minerais","net",18457182.7704709
+"577",2003,"BR","Processos Industriais","Uso de SF6","net",131600
+"578",2003,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",501719.149008
+"579",2003,"BR","Resíduos","Resíduos Sólidos","net",33328141.5355314
+"580",2003,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",23685424.9473274
+"581",2004,"BR","Agropecuária","Cultivo de Arroz","net",11270622.6934
+"582",2004,"BR","Agropecuária","Fermentação Entérica","net",364905132.95656
+"583",2004,"BR","Agropecuária","Manejo de Dejetos Animais","net",20640417.18908
+"584",2004,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2326686.66471
+"585",2004,"BR","Agropecuária","Solos Manejados","net",118742410.49024
+"586",2004,"BR","Energia","Emissões Fugitivas","net",14616127.8873162
+"587",2004,"BR","Energia","Emissões pela Queima de Combustíveis","net",291577886.802887
+"588",2004,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1906566900
+"589",2004,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-249571433
+"590",2004,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-4103081
+"591",2004,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-138761261
+"592",2004,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",141607266
+"593",2004,"BR","Processos Industriais","Emissões de HFCs","net",4513182.4
+"594",2004,"BR","Processos Industriais","Indústria Química","net",10127091.5633516
+"595",2004,"BR","Processos Industriais","Produção de Metais","net",46787787.838452
+"596",2004,"BR","Processos Industriais","Produtos Minerais","net",19086485.0079978
+"597",2004,"BR","Processos Industriais","Uso de SF6","net",141000
+"598",2004,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",514850.293584
+"599",2004,"BR","Resíduos","Resíduos Sólidos","net",34140059.5766942
+"600",2004,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",24530808.2265955
+"601",2005,"BR","Agropecuária","Cultivo de Arroz","net",10796332.34876
+"602",2005,"BR","Agropecuária","Fermentação Entérica","net",368425141.69776
+"603",2005,"BR","Agropecuária","Manejo de Dejetos Animais","net",20996148.32537
+"604",2005,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2330029.44239
+"605",2005,"BR","Agropecuária","Solos Manejados","net",115869069.68607
+"606",2005,"BR","Energia","Emissões Fugitivas","net",19707351.6858695
+"607",2005,"BR","Energia","Emissões pela Queima de Combustíveis","net",297938393.608202
+"608",2005,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1592460220
+"609",2005,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-266438114
+"610",2005,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-4730638
+"611",2005,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-145887030
+"612",2005,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",116780925
+"613",2005,"BR","Processos Industriais","Emissões de HFCs","net",6131755.4
+"614",2005,"BR","Processos Industriais","Indústria Química","net",9266089.5241796
+"615",2005,"BR","Processos Industriais","Produção de Metais","net",44371649.0043292
+"616",2005,"BR","Processos Industriais","Produtos Minerais","net",20067750.9897595
+"617",2005,"BR","Processos Industriais","Uso de SF6","net",143350
+"618",2005,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",525442.4677392
+"619",2005,"BR","Resíduos","Resíduos Sólidos","net",36794409.2160239
+"620",2005,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",25089121.0304554
+"621",2006,"BR","Agropecuária","Cultivo de Arroz","net",10667529.58348
+"622",2006,"BR","Agropecuária","Fermentação Entérica","net",366614939.30908
+"623",2006,"BR","Agropecuária","Manejo de Dejetos Animais","net",21404577.4844
+"624",2006,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2501743.54298
+"625",2006,"BR","Agropecuária","Solos Manejados","net",116376853.74785
+"626",2006,"BR","Energia","Emissões Fugitivas","net",17664471.4220801
+"627",2006,"BR","Energia","Emissões pela Queima de Combustíveis","net",303465608.438406
+"628",2006,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",1216133755
+"629",2006,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-287722395
+"630",2006,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-5282525
+"631",2006,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-154731305
+"632",2006,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",89014616
+"633",2006,"BR","Processos Industriais","Emissões de HFCs","net",6379899
+"634",2006,"BR","Processos Industriais","Indústria Química","net",9941666.8681008
+"635",2006,"BR","Processos Industriais","Produção de Metais","net",42631244.448151
+"636",2006,"BR","Processos Industriais","Produtos Minerais","net",21255141.750808
+"637",2006,"BR","Processos Industriais","Uso de SF6","net",150400
+"638",2006,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",461231.453232
+"639",2006,"BR","Resíduos","Resíduos Sólidos","net",39975857.4465472
+"640",2006,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",25592320.9281572
+"641",2007,"BR","Agropecuária","Cultivo de Arroz","net",10141995.04388
+"642",2007,"BR","Agropecuária","Fermentação Entérica","net",346151470.76076
+"643",2007,"BR","Agropecuária","Manejo de Dejetos Animais","net",20996473.81835
+"644",2007,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2738458.65798
+"645",2007,"BR","Agropecuária","Solos Manejados","net",122229616.30941
+"646",2007,"BR","Energia","Emissões Fugitivas","net",18247578.1322568
+"647",2007,"BR","Energia","Emissões pela Queima de Combustíveis","net",316885112.620537
+"648",2007,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",985439789
+"649",2007,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-338392208
+"650",2007,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-6007848
+"651",2007,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-162494872
+"652",2007,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",70824897
+"653",2007,"BR","Processos Industriais","Emissões de HFCs","net",9625088.6
+"654",2007,"BR","Processos Industriais","Indústria Química","net",4187603.9626296
+"655",2007,"BR","Processos Industriais","Produção de Metais","net",46455247.2153678
+"656",2007,"BR","Processos Industriais","Produtos Minerais","net",23296564.9861043
+"657",2007,"BR","Processos Industriais","Uso de SF6","net",155100
+"658",2007,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",547594.2124752
+"659",2007,"BR","Resíduos","Resíduos Sólidos","net",40957563.6894114
+"660",2007,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",25434092.8744193
+"661",2008,"BR","Agropecuária","Cultivo de Arroz","net",11125036.909
+"662",2008,"BR","Agropecuária","Fermentação Entérica","net",351833214.4194
+"663",2008,"BR","Agropecuária","Manejo de Dejetos Animais","net",21691965.13548
+"664",2008,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2655040.71548
+"665",2008,"BR","Agropecuária","Solos Manejados","net",123895296.95411
+"666",2008,"BR","Energia","Emissões Fugitivas","net",19093702.0747905
+"667",2008,"BR","Energia","Emissões pela Queima de Combustíveis","net",335119199.271199
+"668",2008,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",945591611
+"669",2008,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-342903151
+"670",2008,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-5660696
+"671",2008,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-169679709
+"672",2008,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",67747297
+"673",2008,"BR","Processos Industriais","Emissões de HFCs","net",6957141
+"674",2008,"BR","Processos Industriais","Indústria Química","net",3941502.2616272
+"675",2008,"BR","Processos Industriais","Produção de Metais","net",46914020.4140837
+"676",2008,"BR","Processos Industriais","Produtos Minerais","net",25032179.0578116
+"677",2008,"BR","Processos Industriais","Uso de SF6","net",162150
+"678",2008,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",698278.579152
+"679",2008,"BR","Resíduos","Resíduos Sólidos","net",41526924.5279205
+"680",2008,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",26303918.131117
+"681",2009,"BR","Agropecuária","Cultivo de Arroz","net",11452588.18396
+"682",2009,"BR","Agropecuária","Fermentação Entérica","net",358459975.93952
+"683",2009,"BR","Agropecuária","Manejo de Dejetos Animais","net",22234229.99336
+"684",2009,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2324727.59971
+"685",2009,"BR","Agropecuária","Solos Manejados","net",122898234.53482
+"686",2009,"BR","Energia","Emissões Fugitivas","net",25230348.8729411
+"687",2009,"BR","Energia","Emissões pela Queima de Combustíveis","net",316873280.192459
+"688",2009,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",682531590
+"689",2009,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-355021659
+"690",2009,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-8046234
+"691",2009,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-178949291
+"692",2009,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",46961791
+"693",2009,"BR","Processos Industriais","Emissões de HFCs","net",9416223.4
+"694",2009,"BR","Processos Industriais","Indústria Química","net",3332303.38743944
+"695",2009,"BR","Processos Industriais","Produção de Metais","net",38169778.7768215
+"696",2009,"BR","Processos Industriais","Produtos Minerais","net",24512035.0788329
+"697",2009,"BR","Processos Industriais","Uso de SF6","net",166850
+"698",2009,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",540646.50816
+"699",2009,"BR","Resíduos","Resíduos Sólidos","net",43789139.3794976
+"700",2009,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",26697291.1222146
+"701",2010,"BR","Agropecuária","Cultivo de Arroz","net",10793788.87692
+"702",2010,"BR","Agropecuária","Fermentação Entérica","net",368496315.355
+"703",2010,"BR","Agropecuária","Manejo de Dejetos Animais","net",22843859.35264
+"704",2010,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",2055441.14987
+"705",2010,"BR","Agropecuária","Solos Manejados","net",129884997.82889
+"706",2010,"BR","Energia","Emissões Fugitivas","net",20335918.288533
+"707",2010,"BR","Energia","Emissões pela Queima de Combustíveis","net",351608918.841601
+"708",2010,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",635556206
+"709",2010,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-368562959
+"710",2010,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-8784430
+"711",2010,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-185829927
+"712",2010,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",43421037
+"713",2010,"BR","Processos Industriais","Emissões de HFCs","net",13047168.3
+"714",2010,"BR","Processos Industriais","Indústria Química","net",3562688.58449744
+"715",2010,"BR","Processos Industriais","Produção de Metais","net",50354922.396719
+"716",2010,"BR","Processos Industriais","Produtos Minerais","net",27746514.4795324
+"717",2010,"BR","Processos Industriais","Uso de SF6","net",173900
+"718",2010,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",663289.826496
+"719",2010,"BR","Resíduos","Resíduos Sólidos","net",45174341.3501943
+"720",2010,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",26817500.0511137
+"721",2011,"BR","Agropecuária","Cultivo de Arroz","net",12079190.33132
+"722",2011,"BR","Agropecuária","Fermentação Entérica","net",361984122.26004
+"723",2011,"BR","Agropecuária","Manejo de Dejetos Animais","net",24930804.03294
+"724",2011,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1688617.13954
+"725",2011,"BR","Agropecuária","Solos Manejados","net",138389690.60108
+"726",2011,"BR","Energia","Emissões Fugitivas","net",18757559.3495843
+"727",2011,"BR","Energia","Emissões pela Queima de Combustíveis","net",366603596.205472
+"728",2011,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",623572755
+"729",2011,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-369052615
+"730",2011,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-7553192
+"731",2011,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-194035934
+"732",2011,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",42916606
+"733",2011,"BR","Processos Industriais","Emissões de HFCs","net",11774321.8909092
+"734",2011,"BR","Processos Industriais","Indústria Química","net",3814169.41408441
+"735",2011,"BR","Processos Industriais","Produção de Metais","net",53381027.3916334
+"736",2011,"BR","Processos Industriais","Produtos Minerais","net",29921934.0942924
+"737",2011,"BR","Processos Industriais","Uso de SF6","net",182829.999999999
+"738",2011,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",743652.99624
+"739",2011,"BR","Resíduos","Resíduos Sólidos","net",46096779.4520951
+"740",2011,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",27332701.3493288
+"741",2012,"BR","Agropecuária","Cultivo de Arroz","net",10752976.59632
+"742",2012,"BR","Agropecuária","Fermentação Entérica","net",360050255.05876
+"743",2012,"BR","Agropecuária","Manejo de Dejetos Animais","net",25014682.66853
+"744",2012,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1379317.81301
+"745",2012,"BR","Agropecuária","Solos Manejados","net",139180918.08435
+"746",2012,"BR","Energia","Emissões Fugitivas","net",19876280.9869004
+"747",2012,"BR","Energia","Emissões pela Queima de Combustíveis","net",398973993.520454
+"748",2012,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",659226226
+"749",2012,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-371688135
+"750",2012,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-7369456
+"751",2012,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-201630236
+"752",2012,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",44495814
+"753",2012,"BR","Processos Industriais","Emissões de HFCs","net",12676516.2409091
+"754",2012,"BR","Processos Industriais","Indústria Química","net",3520976.22257426
+"755",2012,"BR","Processos Industriais","Produção de Metais","net",52044757.0510993
+"756",2012,"BR","Processos Industriais","Produtos Minerais","net",31751101.2939919
+"757",2012,"BR","Processos Industriais","Uso de SF6","net",189174.999999999
+"758",2012,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",679254.876432
+"759",2012,"BR","Resíduos","Resíduos Sólidos","net",46672961.5655938
+"760",2012,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",27670141.4374527
+"761",2013,"BR","Agropecuária","Cultivo de Arroz","net",10951652.86516
+"762",2013,"BR","Agropecuária","Fermentação Entérica","net",360728197.39628
+"763",2013,"BR","Agropecuária","Manejo de Dejetos Animais","net",24883479.77585
+"764",2013,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1237086.09225
+"765",2013,"BR","Agropecuária","Solos Manejados","net",143805477.95518
+"766",2013,"BR","Energia","Emissões Fugitivas","net",23792251.7198995
+"767",2013,"BR","Energia","Emissões pela Queima de Combustíveis","net",429913001.544721
+"768",2013,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",762913633
+"769",2013,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-373477626
+"770",2013,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-6586284
+"771",2013,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-211016979
+"772",2013,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",51896710
+"773",2013,"BR","Processos Industriais","Emissões de HFCs","net",13578710.590909
+"774",2013,"BR","Processos Industriais","Indústria Química","net",3564180.63230561
+"775",2013,"BR","Processos Industriais","Produção de Metais","net",50571256.9448067
+"776",2013,"BR","Processos Industriais","Produtos Minerais","net",32310998.3686449
+"777",2013,"BR","Processos Industriais","Uso de SF6","net",195519.999999999
+"778",2013,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",768801.98736
+"779",2013,"BR","Resíduos","Resíduos Sólidos","net",48620186.1368611
+"780",2013,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",29032035.9993275
+"781",2014,"BR","Agropecuária","Cultivo de Arroz","net",11312886.9532
+"782",2014,"BR","Agropecuária","Fermentação Entérica","net",362149811.6194
+"783",2014,"BR","Agropecuária","Manejo de Dejetos Animais","net",25436214.77193
+"784",2014,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",1078160.92223
+"785",2014,"BR","Agropecuária","Solos Manejados","net",146333810.1817
+"786",2014,"BR","Energia","Emissões Fugitivas","net",25081806.6872853
+"787",2014,"BR","Energia","Emissões pela Queima de Combustíveis","net",453701111.252399
+"788",2014,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",739869421
+"789",2014,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-375695969
+"790",2014,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-5790306
+"791",2014,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-218997661
+"792",2014,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",50048343
+"793",2014,"BR","Processos Industriais","Emissões de HFCs","net",14480904.9409092
+"794",2014,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"795",2014,"BR","Processos Industriais","Produção de Metais","net",50933041.8026403
+"796",2014,"BR","Processos Industriais","Produtos Minerais","net",33029373.1282241
+"797",2014,"BR","Processos Industriais","Uso de SF6","net",201865.000000001
+"798",2014,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",664524.095136
+"799",2014,"BR","Resíduos","Resíduos Sólidos","net",50740052.3374597
+"800",2014,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",29285375.4163795
+"801",2015,"BR","Agropecuária","Cultivo de Arroz","net",11910095.995
+"802",2015,"BR","Agropecuária","Fermentação Entérica","net",368989557.01636
+"803",2015,"BR","Agropecuária","Manejo de Dejetos Animais","net",26197892.9448
+"804",2015,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",657306.8026
+"805",2015,"BR","Agropecuária","Solos Manejados","net",143686787.48737
+"806",2015,"BR","Energia","Emissões Fugitivas","net",25285446.5748725
+"807",2015,"BR","Energia","Emissões pela Queima de Combustíveis","net",430430739.891163
+"808",2015,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",814695403
+"809",2015,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-376699988
+"810",2015,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-6590512
+"811",2015,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-223025595
+"812",2015,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",56343227
+"813",2015,"BR","Processos Industriais","Emissões de HFCs","net",15383099.2909091
+"814",2015,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"815",2015,"BR","Processos Industriais","Produção de Metais","net",51148318.4529615
+"816",2015,"BR","Processos Industriais","Produtos Minerais","net",30977578.4458279
+"817",2015,"BR","Processos Industriais","Uso de SF6","net",208210
+"818",2015,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",638140.835376
+"819",2015,"BR","Resíduos","Resíduos Sólidos","net",53601542.5111022
+"820",2015,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",29405203.1425975
+"821",2016,"BR","Agropecuária","Cultivo de Arroz","net",10919977.25924
+"822",2016,"BR","Agropecuária","Fermentação Entérica","net",374358816.06816
+"823",2016,"BR","Agropecuária","Manejo de Dejetos Animais","net",26448770.6898
+"824",2016,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",569251.5077
+"825",2016,"BR","Agropecuária","Solos Manejados","net",150487655.55918
+"826",2016,"BR","Energia","Emissões Fugitivas","net",24729096.2083832
+"827",2016,"BR","Energia","Emissões pela Queima de Combustíveis","net",397559467.287569
+"828",2016,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",869972676
+"829",2016,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-381212344
+"830",2016,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-3959209
+"831",2016,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-227796031
+"832",2016,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",62472199
+"833",2016,"BR","Processos Industriais","Emissões de HFCs","net",16285293.640909
+"834",2016,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"835",2016,"BR","Processos Industriais","Produção de Metais","net",46973939.8316728
+"836",2016,"BR","Processos Industriais","Produtos Minerais","net",27978577.5659457
+"837",2016,"BR","Processos Industriais","Uso de SF6","net",214555
+"838",2016,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",641767.49736
+"839",2016,"BR","Resíduos","Resíduos Sólidos","net",54965728.2724235
+"840",2016,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",29651430.8138251
+"841",2017,"BR","Agropecuária","Cultivo de Arroz","net",11773965.97496
+"842",2017,"BR","Agropecuária","Fermentação Entérica","net",367761576.22596
+"843",2017,"BR","Agropecuária","Manejo de Dejetos Animais","net",26559507.85039
+"844",2017,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",479772.47142
+"845",2017,"BR","Agropecuária","Solos Manejados","net",155183498.0721
+"846",2017,"BR","Energia","Emissões Fugitivas","net",24891925.0584706
+"847",2017,"BR","Energia","Emissões pela Queima de Combustíveis","net",404913446.807467
+"848",2017,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",694764813
+"849",2017,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-385719681
+"850",2017,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-4396146
+"851",2017,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-233298904
+"852",2017,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",48991757
+"853",2017,"BR","Processos Industriais","Emissões de HFCs","net",17187487.9909091
+"854",2017,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"855",2017,"BR","Processos Industriais","Produção de Metais","net",51618483.5145754
+"856",2017,"BR","Processos Industriais","Produtos Minerais","net",26481852.952721
+"857",2017,"BR","Processos Industriais","Uso de SF6","net",220899.999999999
+"858",2017,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",669621.4404
+"859",2017,"BR","Resíduos","Resíduos Sólidos","net",56493493.7799588
+"860",2017,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",29925283.8632803
+"861",2018,"BR","Agropecuária","Cultivo de Arroz","net",11324698.92792
+"862",2018,"BR","Agropecuária","Fermentação Entérica","net",365607752.63068
+"863",2018,"BR","Agropecuária","Manejo de Dejetos Animais","net",26648367.61325
+"864",2018,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",562962.44699
+"865",2018,"BR","Agropecuária","Solos Manejados","net",155936450.64376
+"866",2018,"BR","Energia","Emissões Fugitivas","net",24709246.4673327
+"867",2018,"BR","Energia","Emissões pela Queima de Combustíveis","net",383921967.165048
+"868",2018,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",712994645
+"869",2018,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-385480059
+"870",2018,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-5897504
+"871",2018,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-237008389
+"872",2018,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",49746122
+"873",2018,"BR","Processos Industriais","Emissões de HFCs","net",18089682.3409091
+"874",2018,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"875",2018,"BR","Processos Industriais","Produção de Metais","net",51955840.1954413
+"876",2018,"BR","Processos Industriais","Produtos Minerais","net",26337309.0279617
+"877",2018,"BR","Processos Industriais","Uso de SF6","net",227244.999999999
+"878",2018,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",664651.206384
+"879",2018,"BR","Resíduos","Resíduos Sólidos","net",58677172.5569367
+"880",2018,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",30189567.7531152
+"881",2019,"BR","Agropecuária","Cultivo de Arroz","net",10452518.38764
+"882",2019,"BR","Agropecuária","Fermentação Entérica","net",367597426.08288
+"883",2019,"BR","Agropecuária","Manejo de Dejetos Animais","net",26709358.71224
+"884",2019,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",429635.36305
+"885",2019,"BR","Agropecuária","Solos Manejados","net",157798763.44752
+"886",2019,"BR","Energia","Emissões Fugitivas","net",25525416.6782479
+"887",2019,"BR","Energia","Emissões pela Queima de Combustíveis","net",386941330.164609
+"888",2019,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",754159128
+"889",2019,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-385964083
+"890",2019,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-6627437
+"891",2019,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-243118074
+"892",2019,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",52836996
+"893",2019,"BR","Processos Industriais","Emissões de HFCs","net",18991876.690909
+"894",2019,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"895",2019,"BR","Processos Industriais","Produção de Metais","net",48293901.9930478
+"896",2019,"BR","Processos Industriais","Produtos Minerais","net",27497748.026307
+"897",2019,"BR","Processos Industriais","Uso de SF6","net",233589.999999999
+"898",2019,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",721326.857328
+"899",2019,"BR","Resíduos","Resíduos Sólidos","net",59942112.4034453
+"900",2019,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",30457601.5457771
+"901",2020,"BR","Agropecuária","Cultivo de Arroz","net",10369553.56164
+"902",2020,"BR","Agropecuária","Fermentação Entérica","net",372973343.89056
+"903",2020,"BR","Agropecuária","Manejo de Dejetos Animais","net",26996463.88538
+"904",2020,"BR","Agropecuária","Queima de Resíduos Agrícolas","net",369800.21044
+"905",2020,"BR","Agropecuária","Solos Manejados","net",166313836.92223
+"906",2020,"BR","Energia","Emissões Fugitivas","net",26662264.7205508
+"907",2020,"BR","Energia","Emissões pela Queima de Combustíveis","net",367042995.168664
+"908",2020,"BR","Mudança de Uso da Terra e Floresta","Alterações de Uso do Solo","net",932321121.050499
+"909",2020,"BR","Mudança de Uso da Terra e Floresta","Remoção em Áreas Protegidas","net",-385964083
+"910",2020,"BR","Mudança de Uso da Terra e Floresta","Remoção por Mudança de Uso da Terra","net",-6627437
+"911",2020,"BR","Mudança de Uso da Terra e Floresta","Remoção por Vegetação Secundária","net",-243118074
+"912",2020,"BR","Mudança de Uso da Terra e Floresta","Resíduos Florestais","net",65602174.4858201
+"913",2020,"BR","Processos Industriais","Emissões de HFCs","net",19894071.0409091
+"914",2020,"BR","Processos Industriais","Indústria Química","net",3734172.29463273
+"915",2020,"BR","Processos Industriais","Produção de Metais","net",46291822.240596
+"916",2020,"BR","Processos Industriais","Produtos Minerais","net",29096936.7813521
+"917",2020,"BR","Processos Industriais","Uso de SF6","net",239935.000000001
+"918",2020,"BR","Processos Industriais","Uso Não-Energético de Combustíveis e Uso de Solventes","net",707452.081248
+"919",2020,"BR","Resíduos","Resíduos Sólidos","net",61304485.5446206
+"920",2020,"BR","Resíduos","Tratamento de Efluentes Liquidos","net",30743326.0660429
