@@ -1,3 +1,0 @@
-﻿Column Name;Type;Unit;Description
-date;<date>;yyyy-mm-dd;Reference Date
-inflation_index;<dbl>;-;Month inflation index (dec 1993 = 100)
